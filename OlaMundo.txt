@@ -2,3 +2,6 @@ Ola, Mundo!
 Eu sou o Guilherme Fernandes.
 Vamos estudar os fundamentos do Git?
 Sim
+Claro
+Qual a sua idade?
+19
