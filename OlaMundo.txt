@@ -9,3 +9,5 @@ Qual a sua instituição?
 UNIR
 Qual o curso?
 Engenharia Elétrica
+Você tem carro?
+Não
